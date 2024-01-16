@@ -76,7 +76,7 @@
         {% render 'icon-caret' %}
       </button>
 
-      {%- if section.settings.auto_rotate -%}
+      {%- if section.settings.auto_rotate and section.settings.hide_play_buttons == false -%}
         <button
           type="button"
           class="slideshow__autoplay slider-button no-js-hidden{% if section.settings.auto_rotate == false %} slideshow__autoplay--paused{% endif %}"
@@ -110,6 +110,7 @@
     aria-live="polite"
     aria-atomic="true"
     data-autoplay="{{ section.settings.auto_rotate }}"
+    data-hide-play-buttons="{{ section.settings.hide_play_buttons }}"
     data-speed="{{ section.settings.change_slides_speed }}"
   >
     {%- for block in section.blocks -%}
@@ -242,14 +243,14 @@
         {% render 'icon-caret' %}
       </button>
 
-      {%- if section.settings.auto_rotate -%}
+      {%- if section.settings.auto_rotate and section.settings.hide_play_buttons == false -%}
         <button
           type="button"
           class="slideshow__autoplay slider-button no-js-hidden{% if section.settings.auto_rotate == false %} slideshow__autoplay--paused{% endif %}"
           aria-label="{{ 'sections.slideshow.pause_slideshow' | t }}"
         >
-          {%- render 'icon-pause' -%}
-          {%- render 'icon-play' -%}
+            {%- render 'icon-pause' -%}
+            {%- render 'icon-play' -%}
         </button>
       {%- endif -%}
     </div>
@@ -348,6 +349,12 @@
       "type": "checkbox",
       "id": "auto_rotate",
       "label": "t:sections.slideshow.settings.auto_rotate.label",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "hide_play_buttons",
+      "label": "Hide Play Buttons",
       "default": false
     },
     {

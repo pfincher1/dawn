@@ -15,13 +15,23 @@
 {%- endstyle -%}
 
 <div class="page-width page-width--narrow section-{{ section.id }}-padding">
-  <h1 class="main-page-title page-title h0{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--fade-in{% endif %}">
+  <h1 class="main-page-title page-title h0{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--fade-in{% endif %}
+    {% case section.settings.title-alignment %}
+      {% when 'left' %}
+        left
+      {% when 'center' %}
+        center
+      {% when 'right' %}
+        right
+    {% endcase %} 
+  ">
     {{ page.title | escape }}
   </h1>
   <div class="rte{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
     {{ page.content }}
   </div>
 </div>
+
 
 {% schema %}
 {
@@ -30,9 +40,29 @@
   "class": "section",
   "settings": [
     {
+      "type": "select",
+      "id": "title-alignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "left",
+      "label": "Title Alignment"
+    },
+    {
       "type": "header",
       "content": "t:sections.all.padding.section_padding_heading"
-    },
+    },   
     {
       "type": "range",
       "id": "padding_top",

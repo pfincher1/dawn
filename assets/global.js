@@ -756,12 +756,15 @@ class SlideshowComponent extends SliderComponent {
 
   setAutoPlay() {
     this.autoplaySpeed = this.slider.dataset.speed * 1000;
+    this.hidePlayButtons = this.slider.dataset.hidePlayButtons;
     this.addEventListener('mouseover', this.focusInHandling.bind(this));
     this.addEventListener('mouseleave', this.focusOutHandling.bind(this));
     this.addEventListener('focusin', this.focusInHandling.bind(this));
     this.addEventListener('focusout', this.focusOutHandling.bind(this));
 
-    if (this.querySelector('.slideshow__autoplay')) {
+    if (this.hidePlayButtons === 'true') {
+      this.play();      
+    } else if (this.querySelector('.slideshow__autoplay')) {
       this.sliderAutoplayButton = this.querySelector('.slideshow__autoplay');
       this.sliderAutoplayButton.addEventListener('click', this.autoPlayToggle.bind(this));
       this.autoplayButtonIsSetToPlay = true;
@@ -828,6 +831,9 @@ class SlideshowComponent extends SliderComponent {
   }
 
   focusOutHandling(event) {
+    // If play buttons are hidden then ignore
+    if (this.hidePlayButtons === 'true')
+      return;
     if (this.sliderAutoplayButton) {
       const focusedOnAutoplayButton =
         event.target === this.sliderAutoplayButton || this.sliderAutoplayButton.contains(event.target);
@@ -842,6 +848,9 @@ class SlideshowComponent extends SliderComponent {
   }
 
   focusInHandling(event) {
+    // If play buttons are hidden then ignore
+    if (this.hidePlayButtons === 'true')
+      return;    
     if (this.sliderAutoplayButton) {
       const focusedOnAutoplayButton =
         event.target === this.sliderAutoplayButton || this.sliderAutoplayButton.contains(event.target);
