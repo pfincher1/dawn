@@ -3,9 +3,10 @@
     "slideshow_LjDdtx": {
       "type": "slideshow",
       "blocks": {
-        "slide_wXChrb": {
+        "slide_Jc4MEJ": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/painted_dresser_2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -20,9 +21,10 @@
             "text_alignment_mobile": "center"
           }
         },
-        "slide_Jc4MEJ": {
+        "slide_wXChrb": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/grayCoffeeTable.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -39,8 +41,8 @@
         }
       },
       "block_order": [
-        "slide_wXChrb",
-        "slide_Jc4MEJ"
+        "slide_Jc4MEJ",
+        "slide_wXChrb"
       ],
       "settings": {
         "layout": "full_bleed",
