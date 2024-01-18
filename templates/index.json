@@ -24,6 +24,7 @@
         "slide_wXChrb": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/brownTableHero.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
