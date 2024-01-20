@@ -40,18 +40,18 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text_CpnaY4": {
+          "type": "text",
+          "settings": {
+            "heading": "The Painted Pear",
+            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+          }
+        },
         "footer-0": {
           "type": "link_list",
           "settings": {
             "heading": "Quick links",
             "menu": "footer"
-          }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Info",
-            "menu": ""
           }
         },
         "footer-2": {
@@ -63,8 +63,8 @@
         }
       },
       "block_order": [
+        "text_CpnaY4",
         "footer-0",
-        "footer-1",
         "footer-2"
       ],
       "settings": {
