@@ -44,7 +44,7 @@
           "type": "text",
           "settings": {
             "heading": "The Painted Pear",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "subtext": ""
           }
         },
         "footer-0": {
@@ -53,19 +53,11 @@
             "heading": "Quick links",
             "menu": "footer"
           }
-        },
-        "footer-2": {
-          "type": "text",
-          "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
-          }
         }
       },
       "block_order": [
         "text_CpnaY4",
-        "footer-0",
-        "footer-2"
+        "footer-0"
       ],
       "settings": {
         "color_scheme": "scheme-1",
