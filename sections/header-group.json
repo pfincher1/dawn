@@ -4,6 +4,9 @@
   "sections": {
     "header": {
       "type": "header",
+      "custom_css": [
+        "nav span {font-size: 2rem; font-weight: 600;}"
+      ],
       "settings": {
         "logo_position": "top-center",
         "menu": "main-menu",
