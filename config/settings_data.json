@@ -1,6 +1,7 @@
 {
   "current": {
-    "logo_width": 90,
+    "logo": "shopify:\/\/shop_images\/ThePearDesigns_Logo1.png",
+    "logo_width": 150,
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
@@ -94,6 +95,7 @@
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "scheme-3",
     "sold_out_badge_color_scheme": "scheme-3",
+    "brand_image": "shopify:\/\/shop_images\/ThePearDesigns_Logo1.png",
     "social_facebook_link": "https:\/\/www.facebook.com\/thepaintedpeardesigns",
     "social_instagram_link": "https:\/\/www.instagram.com\/thepaintedpeardesigns\/",
     "social_youtube_link": "",
