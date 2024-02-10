@@ -10,6 +10,9 @@
     },
     "contact_form_4ctQbN": {
       "type": "contact-form",
+      "custom_css": [
+
+      ],
       "settings": {
         "heading": "Contact form",
         "heading_size": "h1",

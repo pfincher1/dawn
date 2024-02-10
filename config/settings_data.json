@@ -375,5 +375,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".contact h2 {text-decoration: uppercase;}"
+    ]
   }
 }
