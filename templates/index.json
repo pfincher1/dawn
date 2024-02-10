@@ -64,17 +64,10 @@
           "settings": {
             "collection": "artwork"
           }
-        },
-        "featured_collection_WGWzqc": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "services"
-          }
         }
       },
       "block_order": [
-        "featured_collection_ynm6ye",
-        "featured_collection_WGWzqc"
+        "featured_collection_ynm6ye"
       ],
       "settings": {
         "title": "",
