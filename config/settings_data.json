@@ -380,7 +380,7 @@
   "platform_customizations": {
     "custom_css": [
       ".contact h2 {text-transform: uppercase;}",
-      "header nav {margin-top: 0;}"
+      "header nav {margin-top: 0 !important;}"
     ]
   }
 }
