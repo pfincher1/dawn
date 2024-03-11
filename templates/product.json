@@ -44,7 +44,7 @@
           "settings": {
             "heading": "Details",
             "icon": "none",
-            "content": "<p>{{ product.metafields.custom.definition | metafield_tag }}<\/p>",
+            "content": "<p>This is an original painting created with acrylics on stretched canvas and protected with a varnish so it will last a lifetime. Each piece is shown framed and unframed. I have chosen a frame that I feel compliments the art, but it can be changed based on availability. <\/p>",
             "page": ""
           }
         },
@@ -53,16 +53,7 @@
           "settings": {
             "heading": "Shipping",
             "icon": "none",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible_tab_NYKAC8": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Test",
-            "icon": "none",
-            "content": "",
+            "content": "<p>Your painting will be carefully packaged and ready to display as soon as you receive it. Shipping is free. <\/p>",
             "page": ""
           }
         }
@@ -75,8 +66,7 @@
         "quantity_selector",
         "buy_buttons",
         "collapsible_tab_tchg4W",
-        "collapsible_tab_ntVqFh",
-        "collapsible_tab_NYKAC8"
+        "collapsible_tab_ntVqFh"
       ],
       "settings": {
         "enable_sticky_info": true,
