@@ -49,7 +49,7 @@
           "settings": {
             "heading": "Details",
             "icon": "none",
-            "content": "",
+            "content": "<p>These hand painted blocks make the perfect accent to your décor or as a sweet gift for a friend. Each block is hand painted per order, so slight variances will occur. They can be made on wood blocks or canvas. They can be displayed on a shelf or wall. Blocks have a blank back that allows for a message to be added. <\/p>",
             "page": ""
           }
         },
@@ -58,7 +58,7 @@
           "settings": {
             "heading": "Shipping",
             "icon": "none",
-            "content": "",
+            "content": "<p>Each block is painted per order. Please allow up to two weeks for it to be created and shipped. Tracking information will be sent when it ships.<\/p>",
             "page": ""
           }
         }

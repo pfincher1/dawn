@@ -39,7 +39,7 @@
             "show_gift_card_recipient": true
           }
         },
-        "description": {
+        "description_m3jyhf": {
           "type": "description",
           "settings": {
           }
@@ -49,7 +49,7 @@
           "settings": {
             "heading": "Details",
             "icon": "none",
-            "content": "",
+            "content": "<p>This is an original painting created with acrylics on stretched canvas and protected with a varnish so it will last a lifetime. Each piece is shown framed and unframed. I have chosen a frame that I feel compliments the art, but it can be changed based on availability. <\/p>",
             "page": ""
           }
         },
@@ -58,7 +58,7 @@
           "settings": {
             "heading": "Shipping",
             "icon": "none",
-            "content": "",
+            "content": "<p>Your painting will be carefully packaged and ready to display as soon as you receive it. Shipping is free. <\/p>",
             "page": ""
           }
         }
@@ -70,7 +70,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
+        "description_m3jyhf",
         "collapsible_tab_tchg4W",
         "collapsible_tab_ntVqFh"
       ],
