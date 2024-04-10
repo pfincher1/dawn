@@ -9,7 +9,7 @@
           "type": "text",
           "settings": {
             "heading": "The Pear Designs",
-            "subtext": "<p><\/p><p>{{ shop.brand.slogan }}<\/p>"
+            "subtext": "<p>{{ shop.brand.slogan }}<\/p>"
           }
         },
         "footer-0": {
