@@ -58,7 +58,7 @@
           "settings": {
             "heading": "Details",
             "icon": "none",
-            "content": "<p>This is an original painting created with acrylics on stretched canvas and protected with a varnish so it will last a lifetime. Each piece is shown framed and unframed. I have chosen a frame that I feel compliments the art, but it can be changed based on availability. <\/p>",
+            "content": "<p>{{ product.metafields.custom.details | metafield_tag }}<\/p>",
             "page": ""
           }
         }
