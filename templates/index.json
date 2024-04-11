@@ -71,23 +71,11 @@
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
-        },
-        "button_A86CNy": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_wHicDx",
-        "text_WTmMAe",
-        "button_A86CNy"
+        "text_WTmMAe"
       ],
       "settings": {
         "desktop_content_position": "center",
