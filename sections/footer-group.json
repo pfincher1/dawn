@@ -9,7 +9,7 @@
           "type": "text",
           "settings": {
             "heading": "The Pear Designs",
-            "subtext": "<p>{{ shop.brand.slogan }}<\/p>"
+            "subtext": "<p>{{ shop.brand.slogan }}{{ shop.brand.short_description }}<\/p>"
           }
         },
         "footer-0": {
@@ -36,7 +36,7 @@
         "show_policy": true,
         "margin_top": 40,
         "padding_top": 40,
-        "padding_bottom": 32
+        "padding_bottom": 16
       }
     }
   },
