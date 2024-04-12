@@ -24,9 +24,9 @@
         "slide_wXChrb": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/brownTableHero.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_5693.jpg",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "",
             "link": "",
@@ -38,15 +38,53 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_XjqRLj": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5683.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_d8LV4h": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NMCC1358-3.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_Jc4MEJ",
-        "slide_wXChrb"
+        "slide_wXChrb",
+        "slide_XjqRLj",
+        "slide_d8LV4h"
       ],
       "settings": {
         "layout": "grid",
-        "slide_height": "adapt_image",
+        "slide_height": "large",
         "slider_visual": "dots",
         "auto_rotate": true,
         "hide_play_buttons": true,
