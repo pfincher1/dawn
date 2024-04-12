@@ -108,7 +108,7 @@
     "featured_collection_HbiGPU": {
       "type": "featured-collection",
       "settings": {
-        "title": "Original Art",
+        "title": "ORIGINAL ART",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -136,7 +136,7 @@
     "featured_collection_iybeHJ": {
       "type": "featured-collection",
       "settings": {
-        "title": "Home Decor",
+        "title": "HOME DECOR",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
