@@ -8,7 +8,7 @@
         "text_CpnaY4": {
           "type": "text",
           "settings": {
-            "heading": "The Pear Designs",
+            "heading": "The Pear <span>Designs<\/span>",
             "subtext": "<p>{{ shop.brand.slogan }}{{ shop.brand.short_description }}<\/p>"
           }
         },
