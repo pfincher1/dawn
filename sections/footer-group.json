@@ -8,7 +8,7 @@
         "text_CpnaY4": {
           "type": "text",
           "settings": {
-            "heading": "The Pear <span>Designs<\/span>",
+            "heading": "The Pear Designs",
             "subtext": "<p>{{ shop.brand.slogan }}{{ shop.brand.short_description }}<\/p>"
           }
         },
@@ -25,7 +25,7 @@
         "footer-0"
       ],
       "custom_css": [
-        "footer .inline-richtext span {color: blue;}"
+        "footer .inline-richtext {}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
