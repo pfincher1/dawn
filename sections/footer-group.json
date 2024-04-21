@@ -24,6 +24,9 @@
         "text_CpnaY4",
         "footer-0"
       ],
+      "custom_css": [
+        "footer .inline-richtext span {color: blue;}"
+      ],
       "settings": {
         "color_scheme": "scheme-2",
         "newsletter_enable": false,
