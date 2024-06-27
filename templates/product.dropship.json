@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -114,7 +123,7 @@
         "text_zpi7Ny": {
           "type": "text",
           "settings": {
-            "text": "<p>Shipping Time Frame:<br\/>• All in stock items will ship within 2-5 business days.<br\/>• Original art may take up to 7 days.Damages:<br\/>• email<a href=\"mailto:mbmulone@gmail.com\" target=\"_blank\">mbmulone@gmail.com<\/a>within 30 days of receipt of merchandise to report damages, quality issues, or any dissatisfaction.<br\/>• please include photos so that we may promptly resolve any damage or quality issues• if approved, we will either provide a replacement (preferred) or a refund.<br\/>• if we choose to bring the item back, we will provide you with a FedEx label and instructions for your return.<br\/><br\/>Refunds:<br\/>• the refund will be for the item minus a 20% restocking fee. Original shipping charges will not be refunded.<br\/>• original art is not refundable or returnable.<\/p>"
+            "text": "<p>Shipping Time Frame:<br\/>• All in stock items will ship within 2-5 business days.<br\/>• Original art may take up to 7 days.Damages:<br\/>• email <a href=\"mailto:mbmulone@gmail.com\" target=\"_blank\">mbmulone@gmail.com<\/a>within 30 days of receipt of merchandise to report damages, quality issues, or any dissatisfaction.<br\/>• please include photos so that we may promptly resolve any damage or quality issues• if approved, we will either provide a replacement (preferred) or a refund.<br\/>• if we choose to bring the item back, we will provide you with a FedEx label and instructions for your return.<br\/><br\/>Refunds:<br\/>• the refund will be for the item minus a 20% restocking fee. Original shipping charges will not be refunded.<br\/>• original art is not refundable or returnable.<\/p>"
           }
         }
       },
