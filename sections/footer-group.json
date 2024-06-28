@@ -17,7 +17,7 @@
         "text_CpnaY4": {
           "type": "text",
           "settings": {
-            "heading": "The Pear Designs",
+            "heading": "<strong>The Pear Designs<\/strong>",
             "subtext": "<p><a href=\"mailto:mbmulone@gmail.com\" title=\"mailto:mbmulone@gmail.com\">mbmulone@gmail.com<\/a><\/p>"
           }
         },
@@ -34,7 +34,7 @@
         "footer-0"
       ],
       "custom_css": [
-        "footer .inline-richtext h2 {margin-bottom: 0 !important;}"
+        "footer .inline-richtext {margin-bottom: 0 !important;}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
