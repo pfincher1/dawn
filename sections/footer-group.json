@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -9,7 +18,7 @@
           "type": "text",
           "settings": {
             "heading": "The Pear Designs",
-            "subtext": "<p>{{ shop.brand.slogan }}{{ shop.brand.short_description }}<\/p>"
+            "subtext": "<p><a href=\"mailto:mbmulone@gmail.com\" title=\"mailto:mbmulone@gmail.com\">mbmulone@gmail.com<\/a><\/p>"
           }
         },
         "footer-0": {
@@ -25,7 +34,7 @@
         "footer-0"
       ],
       "custom_css": [
-        "footer .inline-richtext {}"
+        "footer .inline-richtext h2 {margin-bottom: 0 !important;}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
@@ -39,7 +48,7 @@
         "show_policy": true,
         "margin_top": 40,
         "padding_top": 40,
-        "padding_bottom": 16
+        "padding_bottom": 20
       }
     }
   },
