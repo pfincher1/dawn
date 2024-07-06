@@ -25,6 +25,7 @@
       "block_order": [
         "announcement_wQpacQ"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "show_line_separator": true,
@@ -37,6 +38,7 @@
     },
     "header": {
       "type": "header",
+      "disabled": true,
       "custom_css": [
         "nav span,nav a,nav summary,nav button {font-size: 1.5rem !important; font-weight: 600 !important;}"
       ],
