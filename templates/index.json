@@ -47,9 +47,9 @@
     "featured_collection_HbiGPU": {
       "type": "featured-collection",
       "settings": {
-        "title": "ORIGINAL ART",
+        "title": "Original Art",
         "heading_size": "h1",
-        "description": "",
+        "description": "<h5>beautiful art for your home<\/h5>",
         "show_description": false,
         "description_style": "body",
         "collection": "artwork",
@@ -75,7 +75,7 @@
     "featured_collection_iybeHJ": {
       "type": "featured-collection",
       "settings": {
-        "title": "HOME DECOR",
+        "title": "Home Decor",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
