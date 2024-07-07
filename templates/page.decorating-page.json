@@ -25,6 +25,7 @@
       "blocks": {
         "heading_y3KKAU": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h2"
@@ -32,6 +33,7 @@
         },
         "text_kzcF3p": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Commission art can be shipped or picked up locally.<\/p>",
             "text_style": "body"
@@ -51,6 +53,7 @@
         "text_kzcF3p",
         "button_p8ArqE"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/323703793_4614761065315742_2956330589206909009_n.jpg",
         "height": "adapt",
