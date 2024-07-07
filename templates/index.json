@@ -115,7 +115,7 @@
       "settings": {
         "title": "Home Decor",
         "heading_size": "h1",
-        "description": "",
+        "description": "<p>shop our weekly curated pieces<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "home-decor",
