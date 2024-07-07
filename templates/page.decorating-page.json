@@ -27,7 +27,7 @@
           "type": "heading",
           "disabled": true,
           "settings": {
-            "heading": "hihijhkjkj",
+            "heading": "",
             "heading_size": "h2"
           }
         },
@@ -55,7 +55,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/323703793_4614761065315742_2956330589206909009_n.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_0910.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
