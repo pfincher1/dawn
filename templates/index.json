@@ -9,11 +9,59 @@
 */
 {
   "sections": {
+    "image_with_text_mFi7wK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_UMAaGx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to the pear designs",
+            "heading_size": "h1"
+          }
+        },
+        "text_qGxbQK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hello, I'm Mary Beth, and welcome! I’m so thankful you are here, and truly grateful to share my love of art, home décor, furniture restoration and design with you.<\/p><p>Whether it’s a blank canvas, an antique furniture piece or a special space in your home, I’ve always loved taking something, transforming it and giving it life.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_kKqMxQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UMAaGx",
+        "text_qGxbQK",
+        "button_kKqMxQ"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/mb_flower.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_BneBNq": {
       "type": "rich-text",
       "blocks": {
         "text_WTmMAe": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Hello, I'm Mary Beth, and welcome! I’m so thankful you are here, and truly grateful to share my love of art, home décor, furniture restoration and design with you.<\/p><p>Whether it’s a blank canvas, an antique furniture piece or a special space in your home, I’ve always loved taking something, transforming it and giving it life.<\/p><p>The mission of the pear designs goes beyond artwork and home designs. This is your place for inspiration, uplifting messages, and the “little happies” in life we all need to make our day brighter. Thank you for coming along!<\/p><p>With love and gratitude,<\/p><p>Mary Beth<\/p>"
           }
@@ -98,59 +146,12 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_with_text_mFi7wK": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_UMAaGx": {
-          "type": "heading",
-          "settings": {
-            "heading": "Welcome to the pear designs",
-            "heading_size": "h1"
-          }
-        },
-        "text_qGxbQK": {
-          "type": "text",
-          "settings": {
-            "text": "<p>lkjkljkj;asdlfjasd;kljasdlfjkasd;fasdkjf<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_kKqMxQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_UMAaGx",
-        "text_qGxbQK",
-        "button_kKqMxQ"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/mb_flower.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
+    "image_with_text_mFi7wK",
     "rich_text_BneBNq",
     "featured_collection_HbiGPU",
-    "featured_collection_iybeHJ",
-    "image_with_text_mFi7wK"
+    "featured_collection_iybeHJ"
   ]
 }
