@@ -46,6 +46,7 @@
       "block_order": [
         "announcement_Q3L7zW"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "",
         "show_line_separator": true,
