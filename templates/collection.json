@@ -12,12 +12,12 @@
     "banner": {
       "type": "main-collection-banner",
       "custom_css": [
-        ".collection-hero__title {text-transform: lowercase;}"
+        ".collection-hero__title {text-transform: ;}"
       ],
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
-        "color_scheme": "scheme-1"
+        "color_scheme": "scheme-2"
       }
     },
     "product-grid": {
@@ -36,8 +36,8 @@
         "filter_type": "horizontal",
         "enable_sorting": true,
         "columns_mobile": "2",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     }
   },
