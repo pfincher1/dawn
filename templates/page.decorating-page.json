@@ -20,44 +20,6 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_yif7R9": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_QE7M8Y": {
-          "type": "heading",
-          "settings": {
-            "heading": "Commission Artwork",
-            "heading_size": "h2"
-          }
-        },
-        "text_BEaVYc": {
-          "type": "text",
-          "settings": {
-            "text": "<p>It would be my pleasure to speak with you about custom commission artwork. <\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_QE7M8Y",
-        "text_BEaVYc"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/323703793_4614761065315742_2956330589206909009_n.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "contact_form_4ctQbN": {
       "type": "contact-form",
       "custom_css": [
@@ -74,7 +36,6 @@
   },
   "order": [
     "main",
-    "image_with_text_yif7R9",
     "contact_form_4ctQbN"
   ]
 }
