@@ -12,23 +12,24 @@
     "rich_text_BneBNq": {
       "type": "rich-text",
       "blocks": {
-        "heading_wHicDx": {
-          "type": "heading",
-          "settings": {
-            "heading": "the pear designs",
-            "heading_size": "h1"
-          }
-        },
         "text_WTmMAe": {
           "type": "text",
           "settings": {
             "text": "<p>Hello, I'm Mary Beth, and welcome! I’m so thankful you are here, and truly grateful to share my love of art, home décor, furniture restoration and design with you.<\/p><p>Whether it’s a blank canvas, an antique furniture piece or a special space in your home, I’ve always loved taking something, transforming it and giving it life.<\/p><p>The mission of the pear designs goes beyond artwork and home designs. This is your place for inspiration, uplifting messages, and the “little happies” in life we all need to make our day brighter. Thank you for coming along!<\/p><p>With love and gratitude,<\/p><p>Mary Beth<\/p>"
           }
+        },
+        "heading_wHicDx": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "the pear designs",
+            "heading_size": "h1"
+          }
         }
       },
       "block_order": [
-        "heading_wHicDx",
-        "text_WTmMAe"
+        "text_WTmMAe",
+        "heading_wHicDx"
       ],
       "custom_css": [
 
@@ -97,49 +98,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "slideshow_NY8gJ4": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_bTxgYp": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/mb_flower.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_bTxgYp"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "hide_play_buttons": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
     }
   },
   "order": [
     "rich_text_BneBNq",
     "featured_collection_HbiGPU",
-    "featured_collection_iybeHJ",
-    "slideshow_NY8gJ4"
+    "featured_collection_iybeHJ"
   ]
 }
