@@ -25,20 +25,11 @@
             "text": "<p>Hello, I'm Mary Beth, and welcome! I’m so thankful you are here, and truly grateful to share my love of art, home décor, furniture restoration and design with you.<\/p><p>Whether it’s a blank canvas, an antique furniture piece or a special space in your home, I’ve always loved taking something, transforming it and giving it life.<\/p>",
             "text_style": "body"
           }
-        },
-        "button_kKqMxQ": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_UMAaGx",
-        "text_qGxbQK",
-        "button_kKqMxQ"
+        "text_qGxbQK"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/mb_flower.jpg",
