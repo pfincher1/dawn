@@ -26,6 +26,7 @@
       "blocks": {
         "heading_QE7M8Y": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Commission Artwork",
             "heading_size": "h2"
@@ -33,6 +34,7 @@
         },
         "text_BEaVYc": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>It would be my pleasure to speak with you about custom commission artwork. <\/p>",
             "text_style": "body"
@@ -43,6 +45,7 @@
         "heading_QE7M8Y",
         "text_BEaVYc"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/323703793_4614761065315742_2956330589206909009_n.jpg",
         "height": "adapt",
