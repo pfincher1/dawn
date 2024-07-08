@@ -20,22 +20,14 @@
     "rich_text_UcnyqV": {
       "type": "rich-text",
       "blocks": {
-        "heading_mTPX6N": {
-          "type": "heading",
-          "settings": {
-            "heading": "Mary Beth Mulone",
-            "heading_size": "h1"
-          }
-        },
         "text_HnDKk4": {
           "type": "text",
           "settings": {
-            "text": "<p>Hello! So a little about me….First, I’m incredibly thankful.<br\/>I’m thankful for what The Lord has given to me and I’m thankful you are here. <\/p><p>I love my family and my friends, I love flowers and gardening, and a day usually<br\/>doesn’t go by without my 3 C’s: coffee, chocolate and chips (potato or tortilla...I’m an equal opportunity chipper). <\/p><p>I look forward to connecting with you and creating more for you to enjoy. <\/p>"
+            "text": "<p>Hello! So a little about me….First, I’m incredibly thankful.<br\/>I’m thankful for what The Lord has given to me and I’m thankful you are here. <\/p><p>I love my family and my friends, I love flowers and gardening, and a day usually<br\/>doesn’t go by without my 3 C’s: coffee, chocolate and chips (potato or tortilla...I’m an equal opportunity chipper). <\/p><p>I look forward to connecting with you and creating more for you to enjoy. <\/p><p>Love,<\/p><p>Mary Beth<\/p>"
           }
         }
       },
       "block_order": [
-        "heading_mTPX6N",
         "text_HnDKk4"
       ],
       "settings": {
