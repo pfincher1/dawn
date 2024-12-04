@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_with_text_mFi7wK": {
@@ -22,7 +22,7 @@
         "text_qGxbQK": {
           "type": "text",
           "settings": {
-            "text": "<p>Hello, I'm Mary Beth, and welcome! I’m so thankful you are here, and truly grateful to share my love of art, home décor, furniture restoration and design with you.<\/p><p>Whether it’s a blank canvas, an antique furniture piece or a special space in your home, I’ve always loved taking something, transforming it and giving it life.<\/p>",
+            "text": "<p>Hello, I'm Mary Beth, and welcome! I’m so thankful you are here, and truly grateful to share my love of art, home décor, furniture restoration and design with you.</p><p>Whether it’s a blank canvas, an antique furniture piece or a special space in your home, I’ve always loved taking something, transforming it and giving it life.</p>",
             "text_style": "body"
           }
         }
@@ -32,7 +32,7 @@
         "text_qGxbQK"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mb_flower.jpg",
+        "image": "shopify://shop_images/mb_flower.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -54,7 +54,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Hello, I'm Mary Beth, and welcome! I’m so thankful you are here, and truly grateful to share my love of art, home décor, furniture restoration and design with you.<\/p><p>Whether it’s a blank canvas, an antique furniture piece or a special space in your home, I’ve always loved taking something, transforming it and giving it life.<\/p><p>The mission of the pear designs goes beyond artwork and home designs. This is your place for inspiration, uplifting messages, and the “little happies” in life we all need to make our day brighter. Thank you for coming along!<\/p><p>With love and gratitude,<\/p><p>Mary Beth<\/p>"
+            "text": "<p>Hello, I'm Mary Beth, and welcome! I’m so thankful you are here, and truly grateful to share my love of art, home décor, furniture restoration and design with you.</p><p>Whether it’s a blank canvas, an antique furniture piece or a special space in your home, I’ve always loved taking something, transforming it and giving it life.</p><p>The mission of the pear designs goes beyond artwork and home designs. This is your place for inspiration, uplifting messages, and the “little happies” in life we all need to make our day brighter. Thank you for coming along!</p><p>With love and gratitude,</p><p>Mary Beth</p>"
           }
         },
         "heading_wHicDx": {
@@ -70,9 +70,7 @@
         "text_WTmMAe",
         "heading_wHicDx"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
@@ -87,7 +85,7 @@
       "settings": {
         "title": "Original Art",
         "heading_size": "h1",
-        "description": "<h5>beautiful art for your home<\/h5>",
+        "description": "<h5>beautiful art for your home</h5>",
         "show_description": true,
         "description_style": "body",
         "collection": "artwork",
@@ -113,9 +111,9 @@
     "featured_collection_iybeHJ": {
       "type": "featured-collection",
       "settings": {
-        "title": "Home Decor",
+        "title": "Hand Painted Ornaments",
         "heading_size": "h1",
-        "description": "<p>shop our weekly curated pieces<\/p>",
+        "description": "<p>shop our weekly curated pieces</p>",
         "show_description": false,
         "description_style": "body",
         "collection": "home-decor",
