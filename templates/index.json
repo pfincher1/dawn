@@ -74,8 +74,8 @@
       "type": "featured-collection",
       "settings": {
         "title": "Hand Painted Ornaments",
-        "heading_size": "h1",
-        "description": "<p>shop our weekly curated pieces</p>",
+        "heading_size": "h2",
+        "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "home-decor",
